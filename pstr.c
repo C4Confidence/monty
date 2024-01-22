@@ -22,4 +22,4 @@ void f_pstr(stack_t **head, unsigned int counter)
 		h = h->next;
 	}
 	printf("\n");
-}
+}.
